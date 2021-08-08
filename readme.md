@@ -1,4 +1,4 @@
-#### Este repositÃ³rio contem configuraÃÃes do vim, tmux e outros serviÃos linux:
+#### Este repositório contém configurações do vim, tmux e outros serviços linux:
 
 - Vim
 - Tmux
